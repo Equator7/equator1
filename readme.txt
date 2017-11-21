@@ -4,4 +4,4 @@ Git is free sofeware distributed under the GRL.
 
 Git has a mutable index called stage.
 
-Git tracks changes.
+Git tracks changes of files.
